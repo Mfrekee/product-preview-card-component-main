@@ -1,0 +1,114 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif; 
+}
+
+section{
+    margin: 0 auto;
+    width: 90%;
+    background-color: white;
+}
+
+h1{
+    font-family: 'Fraunces', serif;
+}
+
+p{
+    font-weight: 500;
+}
+
+a{
+    text-decoration: none;
+}
+
+.img-1{
+    width: 100%;
+}
+
+.img-2{
+    display: none;
+}
+
+.p-1{
+    color: gray;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+}
+
+.p-2{
+    color: gray;
+    font-size: 0.9rem; 
+}
+
+.span-1{
+    color: hsl(158, 36%, 37%);
+    font-weight: 800;
+    font-size: 2rem;
+    font-family: 'Fraunces', serif;
+}
+
+.span-2{
+    color: gray;
+    text-decoration: line-through;
+    margin: 0.5rem 0 0 1rem;
+    font-weight: 500;
+}
+
+.div-class{
+    display: flex;
+}
+
+.p-3{
+   text-align: center;
+   background-color: hsl(158, 36%, 37%);
+   border-radius: 8px;
+   padding: .75em ;
+   font-weight: 700;
+   color: white;
+   
+}
+
+.p-3:hover{
+    background-color: darkgreen;
+}
+
+.cart-pic{
+    margin-right: 1em;
+}
+
+
+@media (min-width: 1440px) {
+  
+
+    body{
+    display: flex;
+    margin: 34rem 9rem;
+    background-color: hsl(30, 38%, 92%);
+     }
+
+    section{
+        background-color: white;
+         width: 70%;
+         padding: 2rem 2rem 0;
+         margin-right: 14rem;
+    }
+
+    div{
+        background-color: white;
+    }
+
+    .img-1{
+        display: none;
+    }
+
+    .img-2{
+    display: block;
+    width: 30%;
+    margin-left: 17em; 
+     }
+
+
+}
