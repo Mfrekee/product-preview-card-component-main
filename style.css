@@ -87,7 +87,7 @@ a{
     display: flex;
     margin: 34rem 9rem;
     background-color: hsl(30, 38%, 92%);
-     }
+    }
 
     section{
         background-color: white;
@@ -109,6 +109,5 @@ a{
     width: 30%;
     margin-left: 17em; 
      }
-
 
 }

@@ -1,5 +1,4 @@
 # Frontend Mentor - Product preview card component solution
-
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 
@@ -7,16 +6,14 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshots](#screenshots)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-- [Author](#author)
-
+- [Links](#links)
 
 ## Overview
-This project took two days to complete, and get to Github. The aim of this project(The challenge), as well as the screenshots and links are listed below. 
+This project took two days to complete, and get to Github. The aim of this project(The challenge), as well as the screenshots are listed below. 
 
 
 ### The challenge
@@ -27,10 +24,6 @@ Users should be able to:
 ### Screenshots
 ![Desktop version - 1440px](127.0.0.1_5500_index.html.png)
 ![Mobile Version - 475px](127.0.0.1_5501_index.html.png)
-
-### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [GitHub](https://mfrekee.github.io/product-preview-card-component-main/)
 
 
 ## My process
@@ -55,7 +48,7 @@ I learned more about how CSS could be manipulated. I also learnt a new font styl
 For now, I plan to learn more about the capabilities of the CSS flex(and grid) properties.
 
 
-## Author links
-
+### Links
+- Live Site URL: [GitHub](https://mfrekee.github.io/product-preview-card-component-main/)
 - Frontend Mentor - [@Mfrekee](https://www.frontendmentor.io/profile/Mfrekee)
 - Twitter - [@acmfrekemfon](https://twitter.com/acmfrekemfon)
